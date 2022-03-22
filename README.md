@@ -88,10 +88,10 @@ Key problems Klarna solves are:
 
 *Customer experiences*: easy of tracking real life spends (Spend tracking: to stay on top of payments and spend levels, which is a significant problem for a younger consumers), simplicity of spend reporting and ability manage the spend and cash flow easllly. 
 
-    Recently Klarna launched new card: fee and interest free that offers flexibility to customers as they can show anywhere where Visa is accepted on line , in store etc.  
-    Customer can easily add the card to your Apple Pay and Google Pay and make contactless payments in-store. 
-    Customer can manage the card within Klarna app, or Apple wallet or any payment portal. 
-    They have a flexibility of payment or snoozing the payment if need be for up to 10 days. 
+Recently Klarna launched new card: fee and interest free that offers flexibility to customers as they can show anywhere where Visa is accepted on line , in store etc.  
+Customer can easily add the card to your Apple Pay and Google Pay and make contactless payments in-store. 
+Customer can manage the card within Klarna app, or Apple wallet or any payment portal. 
+They have a flexibility of payment or snoozing the payment if need be for up to 10 days. 
 
 
 **Who is the company's intended customer?**  Is there any information about the market size of this set of customers?

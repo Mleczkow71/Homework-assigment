@@ -3,7 +3,7 @@ FinTech Git assigment due Thursday 24 March by Anita Januzek
 
 ---
 
-#**Waht is fintcech domain researched?**: 
+**What is fintcech domain researched?**: 
 The case study covers *Payment and Billing* domain also refered to as BNPL (Buy Now Pay Later) as it has undergone a significant structural changes and innovations pver the past years accelerated by COVID digital shift. 
 BNPL been shaped in a booming findtech discipline changing a life of every person. 
 
@@ -38,19 +38,18 @@ There are number of key competitors:
 
 ---
 
-##**What is the company name**: 
-The subject of the case study is: **KLARNA** 
-In english translation of klarna means clear. 
+**What is the company name**: 
+The subject of the case study is: **KLARNA** In english translation klarna means clear. 
 
-##**When was Klarna incorporated?**
+**When was Klarna incorporated?**
 Klarna was incorporated in 2005 in Sweden. 
 
 
-##**How did the idea for the company (or project) come about?** 
+**How did the idea for the company (or project) come about?** 
 Initial idea originated as a university competition for economic innovation project. It was a failure. The  idea was rated at the very bottom of all submission. 
 
 
-##**How is the company funded? How much funding have they received?**
+**How is the company funded? How much funding have they received?**
 Klarna is a private equity company. Despite of numerous expectations there are no immediate plans to do so. 
 
 Initially company was funded by an Angel investor Jane Walerun has invested in the company and put the funders with capable technical team to develop its fin tech platform. 
@@ -61,7 +60,7 @@ Current valuation is $31bn. Krarna is present in all major countries entering pa
 
 ---
 
-#**Business Activities**:
+**Business Activities**:
 
 BNPY, cards and banking (since 2017) - Klarna is a disruptor / innovator in banking and fintech payment services. 
 
@@ -70,26 +69,29 @@ For Klarna offers the following options: 1) paying after the order arrives at cu
 
 Key advantages: 
 
-•	B2B component: win for the retailer as on behalf of merchant or ecommerce retailer, Klarna handles all transitions , follows up on the payments and bare financial risk in case customer is not able to pay. 
+•	B2B component: win for the retailer as on behalf of ecommerce retailer, Klarna handles all transitions , follows up on the payments and bare financial risk in case customer is not able to pay. 
 •	B2C component: Klarna offers buy now and pay later option of split payments , ability to pay for items when they arrive at customer’s home or for those items customers decide to keep. 
 •	Brand awareness: Klarna used merchant platforms to create brand awareness and has access to customers data (i.e. H&M partnership)
 •	Kalarna is one of the key disruptors in credit card space competing for share of business with number of Fintech payment innovators: i.e. Afterpay, PAYPAL or banks. 
 
-##**What specific financial problem is the company or project trying to solve?**
+---
+
+**What specific financial problem is the company or project trying to solve?**
 Key problems Klarna solves are: 
 
-*Finacial*: namely: 
+**Finacial**: namely: 
 1) cusotomers cashflow, specifically innability to pay a large $ outlays at time of purchase. This is particularly pronounced among younger generation who dont own / use credit cards. For B2C customers offers flexibility, affordability and stress-free shopping experiences by split / delayed payments. Additionally 
-2) vendors financia risk. Klarna takes the risk and compensates the merchant even though the consumer still has outstanding credit on the purchase. Klarna guarantees the loan of customers’ purchases for merchants.
-3) Banking in 2017 Klarna has been granted abnking licence by Sweden's Financial authority. 
+2) vendors financial risk. Klarna takes the risk and compensates the merchant even though the consumer still has outstanding credit on the purchase. Klarna guarantees the loan of customers’ purchases for merchants.
+3) Banking in 2017 Klarna was granted a bnking licence by Sweden's Financial authority. 
 
-*Business*: acquision and retention as with option of smaller or defferred payments boradersn consumers' numbers and promotes loaylty via repeated purchases. 
+**Business**: acquision and retention as with option of smaller or defferred payments boradersn consumers' numbers and promotes loaylty via repeated purchases. 
 
-*Customer experiences*: easy of tracking real life spends, simplicity of spend reporting and ability manage the spend and cash flow easllly. 
-Recently Klarna launched new card: fee and interest free that offers flexibility to customers as they can show anywhere where Visa is accepted on line , in store etc.  
-Customer can easily add the card to your Apple Pay and Google Pay and make contactless payments in-store. 
-Customer can manage the card within Klarna app, or Apple wallet or any payment portal. They have a flexibility of payment or snoozing the payment if need be for up to 10 days. 
-Spend tracking: to stay on top of payments and spend levels, which is a significant problem for a younger consumers. 
+*Customer experiences*: easy of tracking real life spends (Spend tracking: to stay on top of payments and spend levels, which is a significant problem for a younger consumers), simplicity of spend reporting and ability manage the spend and cash flow easllly. 
+
+    Recently Klarna launched new card: fee and interest free that offers flexibility to customers as they can show anywhere where Visa is accepted on line , in store etc.  
+    Customer can easily add the card to your Apple Pay and Google Pay and make contactless payments in-store. 
+    Customer can manage the card within Klarna app, or Apple wallet or any payment portal. 
+    They have a flexibility of payment or snoozing the payment if need be for up to 10 days. 
 
 
 **Who is the company's intended customer?**  Is there any information about the market size of this set of customers?
@@ -98,7 +100,7 @@ Spend tracking: to stay on top of payments and spend levels, which is a signific
 •	From **B2B perspective**: similar young, innovative companies targeting their products or services to young audiences. These are companies that can grow with Klarna via partnering. 
 
 
-##**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 
 Klarna: 
 
@@ -110,13 +112,17 @@ Klarna:
 
 Klarna uses AWS cloud as it wants to create smooth end to end shopping experience. 
 
+----
+
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+**What domain of the financial industry is the company in?**
+
 •	Payment and transations
 •	Cards and banking
 
 **What have been the major trends and innovations of this domain over the last 5-10 years?**
+
 •	BNPL solutions: global and flexible
 
 **What are the other major companies in this domain?**
@@ -142,7 +148,7 @@ Brand awareness and penetration in markets, Klarna advertises on customer's webs
 * How is your company performing relative to competitors in the same domain?
 •	This has been one of the most successful Fin Tech innovations. Current capitalisation est. 31bn. 
 
-! [Klarna market share](https://user-images.githubusercontent.com/101629699/159470315-14e08515-9f1e-4d77-a861-640b6fd38bb2.JPG)))
+! (![Klarna market share](https://user-images.githubusercontent.com/101629699/159470315-14e08515-9f1e-4d77-a861-640b6fd38bb2.JPG))
 
 
 ## Recommendations
@@ -153,15 +159,21 @@ Additionally to current I would advice Klarn to offer to its B2C audiences a loa
 Additonally explore oppotunity to arget more affluent // less risky older generation i.e. Generation X , not just millenials. 
 
 **Why do you think that offering this product or service would benefit the company?**
-Broadens the business footprint and custmer reach. Creates competiion in baking sector - in Australia it offers huge prfit oppotnities considering margins. 
+Broadens the business footprint and custmer reach. Creates competiion in baking sector - in Australia it offers huge prfit oppotnities as the margins available are one of the highest in the world. 
+In addiotn strenghtening prsence in one of the demographicalli diversed and fast growing market with relativelly low competition in the sector.  
 
 **What technologies would this additional product or service utilize?**
 Banking soutions, payment platform innovations to process variable disocunts. 
+Innovation in ened to end digital experince thai is fast and seamless form pre to pot - purchase. 
+Klarna can create own digital wallets to attract customers and other compenies to participate (veritcal integration). GQ payments capabilities can also be expanded. 
+From B2B space further innovation in digita invoices is needed that reduces manual processing and integrated transactions in retailer transation ledger and , altimattely P&L management and reporting, ballance sheets and cash flow reportimg. 
+
 
 **Why are these technologies appropriate for your solution?**
 These technologies enable to achive the growth and expansion in the sector as well as innovation. 
+Integration with internal e-retailers SAP / othe financial platforms for digital invoice processing / other digital pamentnts 
 
-##**REFRENCES**
+**REFRENCES**
 
 [https://en.wikipedia.org/wiki/Klarna]
 
